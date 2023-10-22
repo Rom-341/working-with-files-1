@@ -3,21 +3,7 @@
 	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 7
 main.py,f\1\f1bdda93d9a278e358509d498e17d97764c1fb29
-8
-test.txt,4\b\4b6fcb2d521ef0fd442a5301e7932d16cc9f375a
-6
-cp.txt,b\8\b8b3891051b127e59d5cf7d30dfd03b8f27472fb
-7
-utf.txt,3\6\365c0972c761a1e46095f722e3087a5816c3b26a
-<
-cook_book.py,8\3\83714485d5b7a91b5565c70e7bb01abd1cabf7db
-9
-	test1.txt,0\5\055e2536b6ac416b21f4ba26f180983a90e94a3a
 ;
 recipes.txt,3\4\341b4d6e58182eb213fa5bdf75a786823f48f465
-9
-	file_path,0\6\068984316f2b10a398fcdef59cbb78b68365f3ea
-8
-draft.py,1\3\1301c69ff52b212acc3c35eb8c2d61d0b315b6d1
-7
-cook.py,2\7\273cd08f88ce8b9d8ace1e2dabd4104acddf8d9e
+>
+cook_book_1.py,e\6\e68ca769a6a8d4054ab421192dcebe62c34a2ab3
