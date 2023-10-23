@@ -1,7 +1,6 @@
 
-Bpython:S125
-"Remove this commented out code.(è® ùÿÿÿÿ8µè“µ1
-=python:S125"Remove this commented out code.(°×İ“8µè“µ1
-Bpython:S125"Remove this commented out code.(›ØòŞıÿÿÿÿ8µè“µ1
-dpython:S3457"EAdd replacement fields or use a normal string instead of an f-string.(¢­Ñì8µè“µ1
-Bpython:S125."Remove this commented out code.(ÕâØõøÿÿÿÿ8µè“µ1
+=python:S125"Remove this commented out code.(›ÓÖ¤8ÓòÂáµ1
+Bpython:S125"Remove this commented out code.(è® ùÿÿÿÿ8ù–Ï¦µ1
+=python:S125"Remove this commented out code.(°×İ“8ù–Ï¦µ1
+ipython:S3457"EAdd replacement fields or use a normal string instead of an f-string.(¶Øùÿÿÿÿ8€’Îáµ1
+Bpython:S125."Remove this commented out code.(ÕâØõøÿÿÿÿ8ù–Ï¦µ1
